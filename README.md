@@ -18,18 +18,18 @@ Shared conventions for the use, understanding and creation of variables:
 Use lower case to set colors.
 
 /* DON'T */
-#F0F0F0;
+&lt#F0F0F0;
 
 /* DO */
-#f0f0f0;
+&lt#f0f0f0;
 
 When possible, use the shorthand sintaxis.
 
 /* DON'T */
-#CCCCCC;
+&lt#CCCCCC;
 
 /* DO */
-#ccc;
+&lt#ccc;
 
 Opacity property setup:
 
