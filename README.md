@@ -19,7 +19,7 @@ Use lower case to set colors.
 
 /* DON'T */
 
-(`)\#F0F0F0;
+\#F0F0F0;
 
 
 /* DO */
