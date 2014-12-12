@@ -18,25 +18,34 @@ Shared conventions for the use, understanding and creation of variables:
 Use lower case to set colors.
 
 /* DON'T */
+
 \#F0F0F0;
 
+
 /* DO */
+
 \#f0f0f0;
 
 When possible, use the shorthand sintaxis.
 
 /* DON'T */
+
 \#CCCCCC;
 
+
 /* DO */
+
 \#ccc;
 
 Opacity property setup:
 
 /* DON'T */
+
 rgba(255, 255, 255, 0.5)
 
+
 /* DO */
+
 rgba(255, 255, 255, .5)
 
 ### Nomenclature
